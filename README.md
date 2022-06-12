@@ -31,4 +31,22 @@ E tem também [este ótimo artigo](https://www.alura.com.br/artigos/escrever-bom
 
 ## Dia 02
 
+A primeira parte do seu desafio hoje será **criar no seu repositório os arquivos HTML e CSS que eu compartilhei [neste template](https://github.com/fabriciocarraro/7DaysOfCode-GitHub), mas isso será feito diretamente a partir da própria página do seu repositório no GitHub, copiando e colando o código manualmente**. Assim que cada arquivo for criado, você deverá realizar o *commit* do mesmo, ao final da página.
+
+A segunda parte do desafio será **fazer o upload de uma pasta "*images*" para o repositório**, contendo as 4 imagens compartilhadas no template acima.
+
+### Dica
+
+Ao realizar um *commit*, sempre escolha uma mensagem muito clara e, de preferência, iniciada com verbos no presente ou no gerúndio.
+
+Para fazer o upload de uma pasta, você pode criá-la localmente na sua área de trabalho com as imagens ou arquivos desejados e selecionar a opção "**Upload Files**".
+
+### Extra
+
+Se você nunca utilizou o Github, calma! Eu tenho o vídeo perfeito para te ajudar nessas primeiras atividades de criação de repositório e adição de arquivos: [GitHub sem linhas de comando](https://www.youtube.com/watch?v=vhqTiQdUHfY).
+
+Você também pode assistir [essa live](https://www.youtube.com/watch?v=nec3n02idMw) que debulha tudo sobre GitHub para iniciantes.
+
+## Dia 03
+
 Em breve.
