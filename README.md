@@ -65,4 +65,40 @@ Esse [artigo](https://www.alura.com.br/artigos/visualstudio-code-instalacao-tecl
 
 ## Dia 04
 
+Hoje, você vai continuar a fazer coisas a partir da IDE. Uma grande vantagem de usar uma IDE como o Visual Studio Code é que fazer alterações no código torna-se uma tarefa muito fácil.
+
+O template que você está utilizando, do jeito que está agora, está muito básico e genérico. O mesmo filme está sendo repetido três vezes, o texto de descrição não tem nada relevante e a imagem também está igual para todos.
+
+A primeira parte do seu desafio de hoje será **alterar o arquivo "_index.html_" a partir do Visual Studio Code para que você tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente**.
+
+Quando essas alterações estiverem prontas, você irá salvar o arquivo e, ao fazer isso, notará que, do lado esquerdo da tela, aparecerá um número "1" ao lado da aba "**Source Control**". Isso quer dizer que há uma alteração no seu código em relação ao código que foi baixado do repositório.
+
+Se você clicar duas vezes no nome do arquivo "_index.html_" visto acima, o Visual Studio Code abrirá uma nova janela e você poderá ver claramente onde foram feitas todas as alterações no código.
+
+A segunda e mais importante parte do desafio de hoje será **realizar o commit dessas alterações que você fez no código**. Você fará o commit diretamente a partir da aba "**Source Control**" do Visual Studio Code e passando uma mensagem explicando sobre o que se tratam as alterações.
+
+### Exercício Opcional
+
+Outra coisa que você pode fazer para praticar os seus conhecimentos é usar os comandos do Git diretamente no Terminal do Visual Studio Code.
+
+Para abrir o Terminal, basta ir na aba superior "_Terminal_" e selecionar "_New Terminal_".
+
+### Dica
+
+Para alterar as imagens, basta trocar a URL encontrada em:
+
+`<img src="URL_DA_IMAGEM" alt="DESCRIÇÃO_DA_IMAGEM"/>`
+
+Já o texto de descrição pode ser encontrado dentro da tag `<span></span>`.
+
+Escolha uma mensagem relevante e clara ao realizar o _commit_, para que você mesmo (e outros) no futuro saibam exatamente de que se trata.
+
+### Extra
+
+Esse [vídeo](https://www.youtube.com/watch?v=BAmvmaKQklQ&list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6&index=2) dá uma boa explicação sobre a base do Git e como funcionam os commits.
+
+A Alura [tem um artigo excelente para você aprender melhor os comandos do Git que são usados no Terminal](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar).
+
+## Dia 05
+
 Em breve.
