@@ -49,4 +49,20 @@ Você também pode assistir [essa live](https://www.youtube.com/watch?v=nec3n02i
 
 ## Dia 03
 
+Hoje, você vai começar a usar uma IDE para continuar brincando com o seu repositório. Recomendo o uso do [Visual Studio Code](https://code.visualstudio.com/download).
+
+Para poder conectar a sua conta GitHub ao Visual Studio Code, você terá que [fazer o download e instalação do Git](https://git-scm.com/downloads) também.
+
+Tendo tudo isso instalado, o seu desafio de hoje será **clonar o seu repositório criado no GitHub para editá-lo localmente, pela sua IDE**.
+
+### Dica
+
+A IDE do Visual Studio Code te dá a opção de clonar um repositório qualquer a partir de uma URL ou a partir de sua conta no GitHub. Você pode associar a sua conta e fazer isso diretamente, ou então ir na página do seu repositório, na aba "**Code**", e copiar a URL disponibilizada lá (escolha a da aba HTTPS).
+
+### Extra
+
+Esse [artigo](https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes) explica como instalar, usar atalhos e dá outras dicas sobre o Visual Studio Code.
+
+## Dia 04
+
 Em breve.
