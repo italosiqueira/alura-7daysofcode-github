@@ -101,4 +101,18 @@ A Alura [tem um artigo excelente para você aprender melhor os comandos do Git q
 
 ## Dia 05
 
+Primeiramente, você irá abrir o seu arquivo "index.html" no Visual Studio Code. Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master. Pode tentar abrir o "index.html" para ver o erro.
+
+O seu desafio de hoje será **reverter esse commit para remover o erro do seu código**.
+
+### Dica
+
+Para o desafio de hoje, é preferível você usar os comandos diretamente no Terminal do Visual Studio Code, assim como no Exercício Opcional de ontem.
+
+### Extra
+
+[Neste vídeo](https://www.youtube.com/watch?v=hISBlHMb-0Y&list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6&index=7), o Mário Souto (Dev Soutinho) explica como reverter um commit mal feito.
+
+## Dia 06
+
 Em breve.
