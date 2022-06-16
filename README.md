@@ -115,4 +115,35 @@ Para o desafio de hoje, é preferível você usar os comandos diretamente no Ter
 
 ## Dia 06
 
+Hoje, você vai simular um conflito.
+
+Para isso, acesse a página do seu repositório no GitHub e abra o arquivo "_index.html_". Clique no lápis para editá-lo e altere o texto de descrição do terceiro filme da lista. Ao terminar, vá até o final da página, insira uma mensagem e clique em "_Commit changes_", deixando selecionada a opção "_Commit directly to the main branch_".
+
+Agora, abra o seu arquivo "_index.html_" dentro do Visual Studio Code, vá até o mesmo ponto do código e altere o texto de descrição do terceiro filme da lista por um texto diferente do original e também diferente do texto alterado diretamente no GitHub. Salve o arquivo, vá até a aba "**Source Control**", insira uma mensagem e faça o _commit_ dessas alterações (seja clicando no símbolo de "correto" ou usando o atalho "_CTRL+Enter_" ou "_Command+Enter_".
+
+Agora, ainda na aba "**Source Control**", clique nas reticências (...) e selecione a opção "_Pull_". Você verá que, ao fazer isso, a IDE irá te informar que houve um conflito de "_merge_" (mescla).
+
+O seu desafio de hoje será **resolver esse conflito e fazer um commit do resultado do seu "_merge_"**. Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code.
+
+### Dica
+
+Uma _feature_ legal é que, ao fazer o "_Pull_", o próprio Visual Studio Code te mostra onde exatamente está o conflito e te dá algumas opções de solução. Elas são:
+
+* **Accept Current Change**: você escolhe ficar com a versão aberta no seu Visual Studio Code
+* **Accept Incoming Change**: você escolhe ficar com a versão que está sendo baixada através do "_Pull_"
+* **Accept Both Changes**: você aceita ambas as alterações
+* **Compare Changes**: o Visual Studio Code abre uma outra tela para você ver as duas versões lado a lado
+
+E você pode simplesmente clicar na opção desejada.
+
+### Extra
+
+O Mário Souto (Dev Soutinho) tem um [vídeo muito legal sobre como lidar com merges](https://www.youtube.com/watch?v=t_UND1if4eI).
+
+Ele também tem outro vídeo sobre [problemas com sincronização](https://www.youtube.com/watch?v=CbCn5_4WtP0).
+
+Também disponibilizamos [gratuitamente as primeiras aulas do curso "Git e Github: estratégias de ramificação, conflitos e pull requests"](https://www.alura.com.br/conteudo/git-github-branching-conflitos-pull-requests), que podem te ajudar a ter uma visão mais ampla.
+
+## Dia 07
+
 Em breve.
