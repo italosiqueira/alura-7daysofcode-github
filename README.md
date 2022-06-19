@@ -146,4 +146,22 @@ Também disponibilizamos [gratuitamente as primeiras aulas do curso "Git e Githu
 
 ## Dia 07
 
-Em breve.
+Você avançou muito no seu projeto e, para fechar com chave de ouro, uma coisa MUITO legal que você pode fazer é **colocar o seu projeto em produção usando o próprio GitHub**. É isso mesmo que você leu!
+
+Dessa forma, você irá **tornar a sua aplicação disponível de forma pública na internet**.
+
+Para fazer isso, você precisará hospedar os arquivos do seu aplicativo em alguma página de hospedagem na nuvem. Um dos jeitos mais fáceis é usar o seu repositório no GitHub e publicá-lo no Github Pages.
+
+### Dica
+
+Depois de publicá-lo pelo GitHub Pages, para visualizar o seu projeto você irá até a página:
+
+`https://SEU_USUARIO.github.io/NOME_DO_SEU_REPOSITORIO`
+
+Onde, obviamente, você terá que trocar `SEU_USUARIO` pelo seu nome de usuário e `NOME_DO_SEU_REPOSITORIO` pelo nome do repositório em questão.
+
+### Extra
+
+Aqui você encontra a [documentação oficial do Github Pages](https://pages.github.com/), que também permite a publicação gratuita.
+
+Se quiser algo mais debulhado, aqui está [um vídeo onde o Mário Souto ensina como publicar o seu site no Github Pages](https://www.youtube.com/watch?v=BU-w2_Aae54).
